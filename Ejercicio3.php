@@ -1,7 +1,7 @@
 <?php
 /**
  * @author Juan Garcia
- * Muestro por pantalla un Hola mundo y el enlace al código
+ * Muestro por pantalla un radio y calculo y muestro su perimetro y su area, por último dibujo el circulo
  */
 
  $radio = 40;

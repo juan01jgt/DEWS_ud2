@@ -1,7 +1,7 @@
 <?php
 /**
  * @author Juan Garcia
- * Muestro por pantalla un Hola mundo y el enlace al código
+ * Muestro por pantalla mis datos y una imagen
  */
 
  $nombre = "Juan";
