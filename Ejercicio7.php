@@ -1,7 +1,7 @@
 <?php
 /**
  * @author Juan Garcia
- * Cargo una variable y hago operaciones con esta
+ * Cargo las variables y muestro distintos resultados
  */
 
 $numero = 8;
